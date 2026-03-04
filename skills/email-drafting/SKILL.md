@@ -31,7 +31,7 @@ Se faltar informação essencial, pergunte de forma objetiva. Não faça 10 perg
 Resumo rápido do style-guide (para referência, mas LEIA o arquivo completo):
 - **PT-BR interno informal**: "Fala [Nome]," ou "@nome" direto. Fecha com "Abs" ou "Abraço".
 - **PT-BR interno formal**: "Oi [Nome]," + "Espero que esteja bem." Fecha com "Abraço".
-- **Inglês externo**: "Hi [Name]," + "I hope you are well!" Fecha com "Best," + "Matheus".
+- **Inglês externo**: "Hi [Name]," + "I hope you are well!" Fecha com "Best," + "[Seu Nome]".
 - **Respostas curtas**: sem saudação, direto ao ponto.
 - **Investidores PT-BR**: estrutura numerada com subtítulos em negrito.
 
