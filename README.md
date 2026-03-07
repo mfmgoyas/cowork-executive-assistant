@@ -48,7 +48,7 @@ Skills can run on cron schedules — the digest fires every morning, meeting pre
 1. Clone this repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cowork-executive-assistant.git
+git clone https://github.com/mfmgoyas/cowork-executive-assistant.git
 ```
 
 2. Copy skills to your Cowork skills directory
